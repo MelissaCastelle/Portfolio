@@ -69,7 +69,7 @@ Beyond my own work, I aim to highlight the stories of the people I meet along th
 
 
 ![Keyboard]({{site.baseurl}}/images/01-3.jpg)
-*Photo by [Pablo Stanley](https://www.lummi.ai/photo/contemplative-technicolor-workstation-sonrb) on [Lummi](https://www.lummi.ai/)*
+**
 
 Looking back, every step — from being an environment artist to implementing real-time systems in AAA production — shaped the Technical Artist I am today. Each challenge pushed me to think deeper about workflows, scalability, and performance.
 
