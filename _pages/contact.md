@@ -7,5 +7,5 @@ Whether you want to talk real-time workflows, procedural systems, production cha
 I’m always open to meaningful conversations and new opportunities.
 permalink: /contact/
 image: '/images/40.jpg'
-image_caption: 'Soon a new photo :)'
+image_caption: ''
 ---
