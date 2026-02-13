@@ -41,18 +41,6 @@ I’ve always analyzed systems, performance constraints, and how mechanics hold 
 Today, that mindset drives my work as a Technical Artist — building procedural environments, optimizing real-time systems, and bridging art with technology.  
 I don’t just play games — I study, deconstruct, and engineer them.
 
-```js
-  $('.top').click(function () {
-    $('html, body').stop().animate({ scrollTop: 0 }, 'slow', 'swing');
-  });
-  $(window).scroll(function () {
-    if ($(this).scrollTop() > $(window).height()) {
-      $('.top').addClass("top-active");
-    } else {
-      $('.top').removeClass("top-active");
-    };
-  });
-```
 
 When I’m not building systems or exploring game worlds, I focus on bringing developers together. I organize community-driven events in Québec City, such as DevTeamDrink, creating spaces where game devs can connect beyond the studio walls.  
 
