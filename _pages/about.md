@@ -5,16 +5,25 @@ permalink: /about/
 image: '/images/01-2.jpg'
 ---
 
-Hey, I’m Alex - part developer, part digital explorer, and full-time lover of all things tech. From crafting lines of code on Linux to unraveling the layers of cybersecurity, my passion for technology goes beyond just a career.
+Hey, I’m Mélissa — Technical Artist focused on real-time environments, procedural systems, and production-ready solutions.
 
 {: .note }
-Even the most experienced developers don't know everything
+Great visuals are nothing without scalable systems behind them.
 
-Over the years, my curiosity only deepened. I became a coder, learning languages like Python, JavaScript, and C++, and fell in love with the sheer power of programming. For me, coding isn’t just a skill; it’s a language for bringing ideas to life. The thrill of debugging, the satisfaction of building something from scratch, and the endless potential of code keep me motivated every day. Coding lets me shape my vision into reality, one line at a time.
+I specialize in bridging art and technology inside Unreal Engine, building procedural workflows, optimizing performance, and transforming creative ideas into robust real-time implementations.
 
-> Curiosity fuels my code, Linux keeps me grounded, and every bug is just a puzzle waiting to be solved.
+My core interests revolve around environment development and PCG (Procedural Content Generation). I enjoy designing systems that empower artists — from building material setups in Shader Graph to creating Blueprint-driven tools that streamline production.
 
-Linux was a turning point. Once I got into Linux, I realized how transformative open-source software could be. I started with Ubuntu, dabbled in Debian, and eventually moved on to Arch. Linux taught me how customizable, flexible, and free technology could truly be. It’s more than an operating system—it’s a philosophy that resonates with my love for exploration and problem-solving. My Linux setup is always evolving, whether I'm configuring a new window manager or experimenting with terminal commands. It’s like a puzzle I never get tired of solving.
+I’m particularly drawn to R&D work: exploring new techniques, testing performance boundaries, and implementing emerging technologies in real-world pipelines. In AAA production environments, I’ve contributed to the integration of advanced solutions such as FluidFlux, ensuring both visual fidelity and runtime efficiency.
+
+Performance matters. Scalability matters. Clean workflows matter.
+
+I enjoy solving complex rendering and optimization challenges — whether that means reducing overdraw, improving memory usage, refining shader logic, or helping teams understand technical constraints without compromising artistic intent.
+
+Documentation is a core part of my process. Clear documentation turns individual knowledge into shared team strength. I believe that strong tech art is not just about building systems — it's about making them understandable, maintainable, and production-proof.
+
+Curiosity drives my research. Production constraints sharpen my solutions.  
+And every technical challenge is an opportunity to build something smarter.
 
 <div class="gallery-box">
   <div class="gallery gallery-columns-2">
@@ -26,7 +35,11 @@ Linux was a turning point. Once I got into Linux, I realized how transformative 
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-Gaming is another integral part of my story. Growing up with video games, I’ve seen firsthand how gaming has evolved from simple pixelated platforms to immersive, narrative-driven experiences. My love for gaming goes beyond just playing; I enjoy analyzing game mechanics, studying character design, and understanding the technology behind these virtual worlds. Indie games hold a special place in my heart because they represent the creativity and innovation of small teams that pour their souls into making something unique.
+Gaming has shaped my career since I was eight, discovering Final Fantasy IX and realizing I wanted to build worlds like that.  
+As a retro gamer turned hardcore MMO player, I was drawn to complex PvE mechanics and large-scale PvP strategies.  
+I’ve always analyzed systems, performance constraints, and how mechanics hold together behind the scenes.  
+Today, that mindset drives my work as a Technical Artist — building procedural environments, optimizing real-time systems, and bridging art with technology.  
+I don’t just play games — I study, deconstruct, and engineer them.
 
 ```js
   $('.top').click(function () {
@@ -41,20 +54,28 @@ Gaming is another integral part of my story. Growing up with video games, I’ve
   });
 ```
 
-When I’m not coding or gaming, I’m diving into the world of comics and sci-fi movies. Both are more than hobbies—they’re ways to explore the “what ifs” of life. Comics taught me that even fictional heroes have real struggles, and sci-fi movies sparked my imagination about the future.
+When I’m not building systems or exploring game worlds, I focus on bringing developers together. I organize community-driven events in Québec City, such as DevTeamDrink, creating spaces where game devs can connect beyond the studio walls.  
+
+Over the years, I’ve also been a streamer, a dedicated cosplayer, and a proudly gothic creative spirit — always drawn to immersive worlds and expressive storytelling.  
+
+I play Dungeons & Dragons, and my version of paradise is live-action roleplay — especially events like Bicolline — where imagination, community, and world-building collide in real life.
 
 ## The Mind Behind the Keyboard
 
-Building this blog has been a passion project. It’s a place where I can share my journey, document what I learn, and connect with people who have the same interests. I’ve written countless tutorials, tech tips, and reviews because I want to create a resource I wish I had when I was starting out. The tech world can be intimidating, but it doesn’t have to be. Thоrough this blog, I hope to make technology accessible, fun, and rewarding for people of all skill levels.
+This blog is where I document my journey as a Technical Artist — sharing breakdowns, production insights, and tutorials to make complex topics more accessible. I believe knowledge grows stronger when it’s shared.  
+Transitioning from artist to a more technical profile isn’t impossible — and I want to show that evolution openly, with its challenges and breakthroughs.  
+I also care deeply about visibility. Women have a place in tech, in rendering, in pipelines, in R&D — and we don’t have to shrink ourselves to fit in.  
+Beyond my own work, I aim to highlight the stories of the people I meet along the way — developers, artists, thinkers — whose paths deserve to be heard.  
+
 
 ![Keyboard]({{site.baseurl}}/images/01-3.jpg)
 *Photo by [Pablo Stanley](https://www.lummi.ai/photo/contemplative-technicolor-workstation-sonrb) on [Lummi](https://www.lummi.ai/)*
 
-Looking back, I see that each step in my journey—whether it was installing my first Linux distro, debugging my first program, or exploring cybersecurity—has shaped me into who I am today.
+Looking back, every step — from being an environment artist to implementing real-time systems in AAA production — shaped the Technical Artist I am today. Each challenge pushed me to think deeper about workflows, scalability, and performance.
 
-The geek in me thrives on discovery, and as I explore new topics and skills, I’m reminded that there’s always more to learn. That’s the beauty of the tech world: no matter how much you know, there’s always a new challenge or a new horizon waiting.
+Curiosity still drives me. Whether I’m exploring procedural generation, refining shader logic, or researching new optimization techniques, I’m constantly learning. In tech art, there is no final level — only better questions to ask.
 
 {: .important }
-Automate repetitive tasks. If you find yourself doing the same task multiple times, it's a sign you should automate it.
+If a task repeats, it should become a tool. If a system scales, it should be documented.
 
-Thank you for being here and for sharing in this journey with me. This blog is more than just articles and posts; it’s a community of curious, passionate individuals who love technology, creativity, and the endless pursuit of knowledge. Whether you’re a fellow Linux enthusiast, a developer looking for new ideas, or just someone curious about the digital world, I’m excited to connect and share this space with you.
+Thank you for being part of this journey. This space is about sharing research, production insights, and the mindset behind building smarter systems. Whether you’re an artist moving toward tech, a developer curious about real-time workflows, or someone navigating your own evolution, I’m glad you’re here.
