@@ -28,7 +28,3 @@ include:
 
 sass:
   style: compressed
-
-  #Personnalisation de la Page - en tout cas je try.
-  title: MELISSA CASTELLE
-description: An eye for Art, a heart for Logic.
