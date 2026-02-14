@@ -25,9 +25,15 @@ menu_settings:
   menu_items:
     - title: 'Home'
       url: '/'
-    - title: 'Tools'
-      url: '/tools/'
-    - title: 'Pages'
+      #Ici PCG, Houdini, FluidFlux,Speedtree,Nanite Assemblies
+    - title: 'Procedural/Systems'
+      url: '/procedural-systems/'
+      #Ici Lamp BP tool, name validation script, asset validation script, Guidelines pour Artistes type naming conventions
+    - title: 'Tools/Pipeline'
+      url: '/tools-pipeline/'
+      #Ici ShaderGraph Materials (Layered materials,Vertex animation,RimLighting), Optimization focused shaders, VFX, Raymarching/procedural surfaces (fog,clouds), Lighting/Rendering techniques
+    - title: 'Rendering and Shaders'
+      url: '/rendering-shaders/'
       submenu:
       - url: '/about/'
         title: 'About'
@@ -35,6 +41,8 @@ menu_settings:
         title: 'Contact'
       - url: '/techartducks/'
         title: 'TechArtDucks'
+      - title: 'Events'
+      url: '/events/'
 
 
 #-------------------------------
@@ -48,7 +56,7 @@ author:
 # Hero Settings
 hero:
   enable: true
-  hero_avatar: /images/01-1.jpg
+  hero_avatar: null
   hero_title: "Hi! I'm Melissa 🌻"
   hero_subtitle: A technical artist, former environment artist, and nerdy mom.
   hero_description: |
@@ -84,6 +92,8 @@ gallery_section:
       - alt: 'Games'
         url: '/images/104.jpg'
         caption: 'Every level is a new opportunity to test your limits.'
+
+#-------------------------------
 
 #-------------------------------
 # Logos
