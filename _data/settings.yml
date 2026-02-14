@@ -54,15 +54,63 @@ hero:
   hero_title: "Hi! I'm Melissa 🌻"
   hero_subtitle: A technical artist, former environment artist, and nerdy mom.
   hero_description: |
-    Hey, I’m Mélissa — Technical Artist focused on real-time environments, procedural systems, and production-ready solutions.
+    "Hey, I’m Mélissa — Technical Artist focused on real-time environments, procedural systems, and production-ready solutions.
 
     Here, I document my work, share the tools and techniques I use, and break down the systems and workflows behind my projects. From procedural environments and Blueprint setups to optimization strategies and shader experiments, this is where I show how I solve problems and bring ideas to life.  
 
-    Explore, learn, and get a behind-the-scenes look at my Technical Art journey — and feel free to share your thoughts or questions along the way!
+    Explore, learn, and get a behind-the-scenes look at my Technical Art journey — and feel free to share your thoughts or questions along the way!"
 
   hero_image_caption: My creative space, where new worlds are born
   hero_button_text: Let’s Work Together
   hero_button_link: '/contact/'
+
+
+# Logos
+logos:
+  enable: true
+  logos_title: Nerd Stuff
+  logo_image:
+    - alt: "Game Boy"
+      image: "/images/1000.jpg"
+    - alt: "Super Nintendo"
+      image: "/images/1001.jpg"
+    - alt: "Keyboard"
+      image: "/images/1002.jpg"
+    - alt: "Headphones"
+      image: "/images/1003.jpg"
+    - alt: "Mouse"
+      image: "/images/1004.jpg"
+
+
+#-------------------------------
+# Section Blog Settings
+blog:
+  enable: true
+  blog_title: The Binary Journal
+
+
+#-------------------------------
+# Tags Section Settings
+tags_section:
+  enable: true
+  tags_section_title: Hacker’s Haven
+  tags:
+    - tag: "Programming"
+      image: "/images/20.jpg"
+    - tag: "Linux"
+      image: "/images/21.jpg"
+    - tag: "Productivity"
+      image: "/images/22.jpg"
+    - tag: "Security"
+      image: "/images/23.jpg"
+
+
+#-------------------------------
+# Videos Section Settings
+videos_section:
+  enable: true
+  videos_section_title: Latest Videos
+
 
 #-------------------------------
 # Gallery Section Settings
@@ -87,44 +135,16 @@ gallery_section:
         url: '/images/104.jpg'
         caption: 'Every level is a new opportunity to test your limits.'
 
-#-------------------------------
-# Logos
-logos:
-  enable: true
-  logos_title: Projects I worked on
-  logo_image:
-    - alt: "Game Boy"
-      image: "/images/1000.jpg"
-    - alt: "Super Nintendo"
-      image: "/images/1001.jpg"
-    - alt: "Keyboard"
-      image: "/images/1002.jpg"
-    - alt: "Headphones"
-      image: "/images/1003.jpg"
-    - alt: "Mouse"
-      image: "/images/1004.jpg"
-#-------------------------------
-# Videos Section Settings
-videos_section:
-  enable: true
-  videos_section_title: Latest Videos
-
-#-------------------------------
-# Section Blog Settings
-blog:
-  enable: true
-  blog_title: The Binary Journal
-
 
 #-------------------------------
 # Newsletter Settings
-#mailchimp:
-  #enable: true
-  #mailchimp_title: Stay inspired weekly ✌️
-  #mailchimp_description: Every Sunday, I deliver actionable tips for enhancing productivity, practical life advice, and top-notch insights gathered from various sources, right to your email inbox.
-  #mailchimp_identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
-  #mailchimp_input_text: Your email address...
-  #mailchimp_button_text: Join Now
+mailchimp:
+  enable: true
+  mailchimp_title: Stay inspired weekly ✌️
+  mailchimp_description: Every Sunday, I deliver actionable tips for enhancing productivity, practical life advice, and top-notch insights gathered from various sources, right to your email inbox.
+  mailchimp_identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
+  mailchimp_input_text: Your email address...
+  mailchimp_button_text: Join Now
 
 
 #-------------------------------
@@ -135,11 +155,12 @@ footer_description: Here, I share ideas, tools, and methods that help me balance
 #-------------------------------
 # Social Settings
 social:
-- {icon: "fa-brands fa-x-twitter", name: "X", link: "https://x.com/MelissaCastelle"}
-- {icon: "fa-brands fa-artstation", name: "Artstation", link: "https://www.artstation.com/techartducks"}
-- {icon: "fa-brands fa-linkedin", name: "LinkedIn", link: "https://www.linkedin.com/in/m%C3%A9lissa-castelle-873885105/"}
-- {icon: "fa-brands fa-youtube", name: "YouTube", link: "https://www.youtube.com/@TechArtDucks"}
-- {icon: "fa-brands fa-github", name: "Github", link: "https://github.com/MelissaCastelle"}
+- {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com"}
+- {icon: "fa-brands fa-facebook", name: "Facebook", link: "https://facebook.com"}
+- {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social"}
+- {icon: "fa-brands fa-reddit-alien", name: "Reddit", link: "https://reddit.com"}
+- {icon: "fa-brands fa-github", name: "Github", link: "https://github.com"}
+- {icon: "fa-solid fa-rss", name: "Rss", link: "/feed.xml"}
 
 # Example of adding a new link to the sidebar and footer - {icon: "fa-brands fa-youtube", name: "Youtube", link: https://youtube.com"}
 # Other icons can be found at https://fontawesome.com/icons
