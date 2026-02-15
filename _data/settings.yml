@@ -74,7 +74,7 @@ hero:
 # Gallery Section Settings
 gallery_section:
   enable: true
-  gallery_section_title: Byte Frame
+  gallery_section_title: My Work
   gallery:
     gallery_images:
       - alt: 'Rest'
@@ -92,8 +92,6 @@ gallery_section:
       - alt: 'Games'
         url: '/images/104.jpg'
         caption: 'Every level is a new opportunity to test your limits.'
-
-#-------------------------------
 
 #-------------------------------
 # Logos
